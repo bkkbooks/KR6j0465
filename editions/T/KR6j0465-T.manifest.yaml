@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0465/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0465/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿吒婆拘鬼神大將上佛陀羅尼神呪經
+  identifiers:
+    krp: KR6j0465
+    cbeta: T21n1237
+    cbeta_old_id: T21n1237
+    authorityid: CA0000080
+    json_key: T1237
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1237.xml
+    old_id: T21n1237
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0465_000-T.yaml, hash: 'sha256:d39ecdf19c37eefe3e8c9033cd12a4a88b4793ba8445be35346c1484a2488c8f'}
+  - {seq: 1, filename: KR6j0465_001-T.yaml, hash: 'sha256:3f3addaec73a6e9ac0fab8c0668f59c665c4098eeb8e3e5fc0ce726049be0139'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0465_000-T.markers.yaml, hash: 'sha256:83a0a98e6b7f6a151f3a58d4822df5ab9b24780ccd725517d6706e09e2e85b97'}
+  - {seq: 1, role: markers, filename: assets/KR6j0465_001-T.markers.yaml, hash: 'sha256:24911e2ddb7057d8e26c22df8c7c441ddb95eaf3aeddcf78d780371954513c0b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0465_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1928
+  label: '阿吒婆拘鬼神大將上佛陀羅尼
+
+    神呪經'
+  type: juan
+  level: 1
+hash: sha256:84710e30ddf64a9bb1cebdfd241afb29ac476af26b2a94cb43c8b7740f7b338b

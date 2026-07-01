@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0465/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿吒婆拘鬼神大將上佛陀羅尼神呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1237.xml
+    old_id: T21n1237
+hash: sha256:d39ecdf19c37eefe3e8c9033cd12a4a88b4793ba8445be35346c1484a2488c8f
