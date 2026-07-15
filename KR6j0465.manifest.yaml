@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0465/v1
 canonical_location: https://kanripo.org/bkk/KR6j0465/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿吒婆拘鬼神大將上佛陀羅尼神呪經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0465_000.yaml, hash: 'sha256:d39ecdf19c37eefe3e8c9033cd12a4a88b4793ba8445be35346c1484a2488c8f'}
-  - {seq: 1, filename: KR6j0465_001.yaml, hash: 'sha256:3f3addaec73a6e9ac0fab8c0668f59c665c4098eeb8e3e5fc0ce726049be0139'}
+  - {seq: 1, filename: KR6j0465_001.yaml, hash: 'sha256:f59bd78c1a2189eae2c433a9eec56b0e80ed1afdf64a5c3fd234aa6e08b2d3b5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0465_000.markers.yaml, hash: 'sha256:93e40a2d4982f4f0eebe633f0da82468b52b4bf3a566fddf4fff298788673c95'}
-  - {seq: 1, role: markers, filename: assets/KR6j0465_001.markers.yaml, hash: 'sha256:c9d16a6983c7269ed7e545af75092ac503f96bc90648c7263ed12ac8ecee73d9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0465_001.markers.yaml, hash: 'sha256:177b9f54bd614a68caa0d2682dd352a38672faa133f6423a911bad0c35700417'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     神呪經'
   type: juan
   level: 1
-hash: sha256:dff64d05e4368dc8afec5663277cf71d86930b4fbc3f5d92f2045abed3e7af3e
+hash: sha256:0cf265a0eb289aefbb49e60f99ca8d681f24ef00b8583cc224352f5a51d38720
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
